@@ -1,6 +1,6 @@
 {
   "name": "pixlr",
-  "productName": "pixlr",
+  "productName": "Pixlr",
   "version": "1.0.0",
   "description": "Pixlr's website, put into a Desktop App",
   "main": "pixlr.js",
