@@ -1,3 +1,3 @@
-# WebCord
+# PixlCord
 
-Discord's website, put into a Desktop App
+Pixlr's website, put into a Desktop App
