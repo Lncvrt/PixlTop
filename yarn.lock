@@ -157,12 +157,12 @@
     "@electron-forge/shared-types" "7.8.1"
 
 "@electron-forge/plugin-fuses@^7.5.0":
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/@electron-forge/plugin-fuses/-/plugin-fuses-7.5.0.tgz#bc4d53d9619bb84e2d48bd52dedad66cd2a0541a"
-  integrity sha512-nF5C4TN/rzN95F5HwAkyYTgy44Mu3EAys8O5zShzg7rye8d5BTnx2peAGtROZcChSaHRql09EeoOswNtuJNMcw==
+  version "7.8.1"
+  resolved "https://registry.yarnpkg.com/@electron-forge/plugin-fuses/-/plugin-fuses-7.8.1.tgz#47a58de044c92c216d3c54527ad0af02017aa540"
+  integrity sha512-dYTwvbV1HcDOIQ0wTybpdtPq6YoBYXIWBTb7DJuvFu/c/thj1eoEdnbwr8mT9hEivjlu5p4ls46n16P5EtZ0oA==
   dependencies:
-    "@electron-forge/plugin-base" "7.5.0"
-    "@electron-forge/shared-types" "7.5.0"
+    "@electron-forge/plugin-base" "7.8.1"
+    "@electron-forge/shared-types" "7.8.1"
 
 "@electron-forge/publisher-base@7.8.1":
   version "7.8.1"
